@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" width="900" height="675" role="img" aria-label="Grilled Sandwich">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EE7E47"/>
+      <stop offset="1" stop-color="#4D2815"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.35" r="0.7">
+      <stop offset="0" stop-color="#FFF7EC" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#FFF7EC" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="675" fill="url(#bg)"/>
+  <rect width="900" height="675" fill="url(#glow)"/>
+  
+    <g transform="translate(450 280)">
+      <path d="M -170 80 L 0 -120 L 170 80 Z" fill="#D4A24A" stroke="#8F6624" stroke-width="4"/>
+      <path d="M -120 80 L 0 -60 L 120 80 Z" fill="#BFE3CF" opacity="0.9"/>
+      <path d="M -150 80 L 150 80 L 140 110 L -140 110 Z" fill="#EE7E47" stroke="#8F6624" stroke-width="3"/>
+      <circle cx="-70" cy="40" r="8" fill="#E86A3A"/>
+      <circle cx="40" cy="30" r="9" fill="#E86A3A"/>
+    </g>
+  <text x="450" y="555" text-anchor="middle" font-size="40" fill="#FFF7EC" font-family="Georgia, 'Times New Roman', serif" font-weight="700" letter-spacing="1">Grilled Sandwich</text>
+  <text x="450" y="600" text-anchor="middle" font-size="18" fill="#FFF7EC" opacity="0.75" font-family="Georgia, 'Times New Roman', serif" letter-spacing="8">BITE OF DESSERT</text>
+</svg>

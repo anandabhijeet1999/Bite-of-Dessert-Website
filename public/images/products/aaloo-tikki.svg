@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" width="900" height="675" role="img" aria-label="Aaloo Tikki">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EE7E47"/>
+      <stop offset="1" stop-color="#4D2815"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.35" r="0.7">
+      <stop offset="0" stop-color="#FFF7EC" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#FFF7EC" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="675" fill="url(#bg)"/>
+  <rect width="900" height="675" fill="url(#glow)"/>
+  
+    <g transform="translate(450 280)">
+      <ellipse cx="0" cy="120" rx="160" ry="20" fill="#3A1F14" opacity="0.2"/>
+      <ellipse cx="0" cy="40" rx="150" ry="90" fill="#D4A24A" stroke="#8F6624" stroke-width="4"/>
+      <ellipse cx="0" cy="20" rx="140" ry="80" fill="#EE7E47"/>
+      <g fill="#BFE3CF">
+        <path d="M -40 -20 Q -30 -40 -20 -20 Q -10 -5 -40 -20 Z"/>
+        <path d="M 30 10 Q 40 -10 50 10 Q 60 25 30 10 Z"/>
+      </g>
+      <g fill="#F4B5C1" opacity="0.8">
+        <circle cx="-60" cy="30" r="6"/>
+        <circle cx="50" cy="50" r="5"/>
+        <circle cx="10" cy="-10" r="5"/>
+      </g>
+    </g>
+  <text x="450" y="555" text-anchor="middle" font-size="40" fill="#FFF7EC" font-family="Georgia, 'Times New Roman', serif" font-weight="700" letter-spacing="1">Aaloo Tikki</text>
+  <text x="450" y="600" text-anchor="middle" font-size="18" fill="#FFF7EC" opacity="0.75" font-family="Georgia, 'Times New Roman', serif" letter-spacing="8">BITE OF DESSERT</text>
+</svg>

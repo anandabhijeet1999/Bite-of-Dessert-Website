@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" width="900" height="675" role="img" aria-label="Special Lassi">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F7A978"/>
+      <stop offset="1" stop-color="#E86A3A"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.35" r="0.7">
+      <stop offset="0" stop-color="#FFF7EC" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#FFF7EC" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="675" fill="url(#bg)"/>
+  <rect width="900" height="675" fill="url(#glow)"/>
+  
+    <g transform="translate(450 280)">
+      <path d="M -70 -110 L -60 170 Q 0 195 60 170 L 70 -110 Z" fill="#FFFBF4" stroke="#3A1F14" stroke-width="4"/>
+      <ellipse cx="0" cy="-110" rx="70" ry="18" fill="#FFFBF4" stroke="#3A1F14" stroke-width="4"/>
+      <ellipse cx="0" cy="-115" rx="60" ry="12" fill="#FAD1D9"/>
+      <circle cx="-20" cy="-122" r="10" fill="#E86A3A"/>
+      <rect x="-3" y="-180" width="6" height="80" rx="3" fill="#3A1F14"/>
+      <path d="M 3 -180 L 26 -180" stroke="#3A1F14" stroke-width="6" stroke-linecap="round"/>
+    </g>
+  <text x="450" y="555" text-anchor="middle" font-size="40" fill="#FFF7EC" font-family="Georgia, 'Times New Roman', serif" font-weight="700" letter-spacing="1">Special Lassi</text>
+  <text x="450" y="600" text-anchor="middle" font-size="18" fill="#FFF7EC" opacity="0.75" font-family="Georgia, 'Times New Roman', serif" letter-spacing="8">BITE OF DESSERT</text>
+</svg>

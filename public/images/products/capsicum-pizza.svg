@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" width="900" height="675" role="img" aria-label="Capsicum Pizza">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#B98735"/>
+      <stop offset="1" stop-color="#3A1F14"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.35" r="0.7">
+      <stop offset="0" stop-color="#FFF7EC" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#FFF7EC" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="675" fill="url(#bg)"/>
+  <rect width="900" height="675" fill="url(#glow)"/>
+  
+    <g transform="translate(450 280)">
+      <circle r="150" fill="#D4A24A" stroke="#8F6624" stroke-width="8"/>
+      <circle r="130" fill="#EE7E47"/>
+      <circle r="118" fill="#F28C52"/>
+      <g fill="#B98735" opacity="0.9">
+        <circle cx="-55" cy="-45" r="14"/>
+        <circle cx="60" cy="-30" r="12"/>
+        <circle cx="-25" cy="60" r="13"/>
+        <circle cx="50" cy="55" r="15"/>
+        <circle cx="0" cy="-10" r="11"/>
+      </g>
+      <g stroke="#8F6624" stroke-width="3" opacity="0.6">
+        <line x1="-150" y1="0" x2="150" y2="0"/>
+        <line x1="0" y1="-150" x2="0" y2="150"/>
+        <line x1="-106" y1="-106" x2="106" y2="106"/>
+        <line x1="-106" y1="106" x2="106" y2="-106"/>
+      </g>
+    </g>
+  <text x="450" y="555" text-anchor="middle" font-size="40" fill="#FFF7EC" font-family="Georgia, 'Times New Roman', serif" font-weight="700" letter-spacing="1">Capsicum Pizza</text>
+  <text x="450" y="600" text-anchor="middle" font-size="18" fill="#FFF7EC" opacity="0.75" font-family="Georgia, 'Times New Roman', serif" letter-spacing="8">BITE OF DESSERT</text>
+</svg>

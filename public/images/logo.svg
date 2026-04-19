@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E3BB6E"/>
+      <stop offset="1" stop-color="#8F6624"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="28" fill="#1A0B06"/>
+  <g fill="url(#g)" font-family="Georgia, serif" font-weight="700">
+    <text x="100" y="110" text-anchor="middle" font-size="66" letter-spacing="6">BOD</text>
+    <text x="100" y="150" text-anchor="middle" font-size="18" letter-spacing="3">BITE OF DESSERT</text>
+  </g>
+  <g transform="translate(92 58)">
+    <path d="M0 0 L16 0 L8 18 Z" fill="#D4A24A"/>
+    <circle cx="4" cy="-4" r="6" fill="#FFE6D1"/>
+    <circle cx="12" cy="-4" r="6" fill="#F7A978"/>
+    <circle cx="8" cy="-10" r="3" fill="#E86A3A"/>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" width="900" height="675" role="img" aria-label="A bite of pure happiness">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFE6D1"/>
+      <stop offset="1" stop-color="#F28C52"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.35" r="0.7">
+      <stop offset="0" stop-color="#FFF7EC" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#FFF7EC" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="675" fill="url(#bg)"/>
+  <rect width="900" height="675" fill="url(#glow)"/>
+  
+    <g transform="translate(450 280)" stroke-linejoin="round">
+      <circle cx="0" cy="-50" r="90" fill="#FFFBF4"/>
+      <circle cx="-45" cy="-75" r="60" fill="#FAD1D9"/>
+      <circle cx="45" cy="-75" r="60" fill="#F7A978"/>
+      <circle cx="15" cy="-125" r="20" fill="#E86A3A"/>
+      <rect x="10" y="-150" width="4" height="30" fill="#4D2815"/>
+      <path d="M -95 30 L 95 30 L 0 190 Z" fill="#D4A24A" stroke="#8F6624" stroke-width="4"/>
+      <path d="M -70 55 L 70 55 M -50 85 L 50 85 M -30 115 L 30 115 M -12 145 L 12 145" stroke="#8F6624" stroke-width="3" opacity="0.55" fill="none"/>
+    </g>
+  <text x="450" y="555" text-anchor="middle" font-size="40" fill="#FFF7EC" font-family="Georgia, 'Times New Roman', serif" font-weight="700" letter-spacing="1">A bite of pure happiness</text>
+  <text x="450" y="600" text-anchor="middle" font-size="18" fill="#FFF7EC" opacity="0.75" font-family="Georgia, 'Times New Roman', serif" letter-spacing="8">BITE OF DESSERT</text>
+</svg>
